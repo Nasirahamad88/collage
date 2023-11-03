@@ -1,8 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-import Button from '../button/page'
-import NavLinks from '../navlinks/page'
+
 Link
 
 function Navbar() {
@@ -31,7 +30,7 @@ function Navbar() {
           <Link className='p-5' href='/'>
           News
           </Link>
-          <a><NavLinks/></a>
+          
         </div>
           </div>
         
