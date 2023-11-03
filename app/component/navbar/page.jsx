@@ -31,7 +31,7 @@ function Navbar() {
           <Link className='p-5' href='/'>
           News
           </Link>
-          <NavLinks/>
+          <a><NavLinks/></a>
         </div>
           </div>
         
